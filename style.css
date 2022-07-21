@@ -1,0 +1,34 @@
+.main_div {
+    background: pink;
+    font-family: 'Special Elite' cursive;
+}
+
+.main_div button {
+    font-family: 'Roboto';
+    background-color: blueviolet;
+    margin-top: 20px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.header {
+    color: red;
+}
+
+.header p {
+    color: gray;
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer {
+    color: gray;
+    bottom: 0;
+    font-size: 13;
+    font-weight: bolder;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 5px grey;
+}
